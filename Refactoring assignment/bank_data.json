@@ -1,0 +1,30 @@
+{
+    "clients": {
+        "emma001": {
+            "password": "1234",
+            "full_name": "Emmanuel Nsubuga",
+            "account_number": "100001",
+            "balance": 500000.0,
+            "transactions": [
+                {
+                    "type": "Initial Deposit",
+                    "amount": 500000.0,
+                    "time": "2026-03-24 14:12:47"
+                }
+            ]
+        },
+        "sarah001": {
+            "password": "abcd",
+            "full_name": "Sarah Namusoke",
+            "account_number": "100002",
+            "balance": 300000.0,
+            "transactions": [
+                {
+                    "type": "Initial Deposit",
+                    "amount": 300000.0,
+                    "time": "2026-03-24 14:12:47"
+                }
+            ]
+        }
+    }
+}

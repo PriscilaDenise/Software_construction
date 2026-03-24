@@ -1,0 +1,12 @@
+2026-03-24 14:18:55,100 - WARNING - storage - Data file not found. Creating default data.
+2026-03-24 14:18:55,100 - INFO - storage - Data saved successfully.
+2026-03-24 14:19:39,302 - WARNING - auth - Failed login attempt for username: Emmanuel Nsubuga
+2026-03-24 14:20:12,014 - INFO - auth - User logged in successfully: emma001
+2026-03-24 14:20:24,849 - INFO - storage - Data saved successfully.
+2026-03-24 14:20:24,849 - INFO - transactions - Deposit successful for emma001: 50000.00
+2026-03-24 14:20:36,085 - INFO - transactions - Balance viewed by emma001
+2026-03-24 14:20:50,789 - WARNING - transactions - Withdrawal failed for emma001 due to insufficient funds.
+2026-03-24 14:20:50,791 - ERROR - __main__ - Operation error for emma001: Insufficient funds.
+2026-03-24 14:20:57,699 - INFO - reports - Transaction history viewed by emma001
+2026-03-24 14:21:06,942 - INFO - __main__ - User logged out: emma001
+2026-03-24 14:21:09,673 - INFO - __main__ - Application closed by user.
